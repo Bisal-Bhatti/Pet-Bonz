@@ -1,0 +1,18 @@
+.Icon{
+    color:#7C58D3
+}
+.MainBox{
+    border: 1px solid #EBE5F7;
+}
+.BadgeBox{
+    background-color: #EBE5F7;
+}
+.MainBox:hover .Icon{
+    color: white
+}
+.MainBox:hover .BadgeBox{
+    background-color:#7C58D3;
+}
+.MainBox:hover{
+    border: 1px solid #7C58D3;
+}

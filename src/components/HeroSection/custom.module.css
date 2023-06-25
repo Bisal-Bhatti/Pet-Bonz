@@ -1,0 +1,30 @@
+@media only screen and (max-width: 768px) {
+    .ImgCls {
+      width: 350px;
+    }
+  }
+@media only screen and (min-width: 1024px) {
+    .ImgCls {
+      width: 710px;
+    }
+  }
+@media only screen and (min-width: 1440px) {
+    .ImgCls {
+      width: 710px;
+    }
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    .PetImg {
+      width: 100px;
+    }
+  }
+
+  @media only screen and (min-width: 1024px) {
+    .PetImg {
+      width: 200px;
+    }
+  }
+
+  
